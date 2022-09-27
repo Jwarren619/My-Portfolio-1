@@ -1,28 +1,35 @@
-# Creating My Very Own Portfolio
+# Jeremiah's Portfolio🗂
 
-    As a new developer I will be creating a website specifically made to be viewed by future companies that will love to see my Web Development progress:
 
-    * I am a new developer and I want to create a new webpage and link it to my homework folder and submit it after it is fully completed.
+# Tabular Array
+<li>Description</li>
+<li>Visuals</li>
+<li>Installation</li>
+<li>Usage</li>
+<li>Road Map</li>
+<li>Author</li>
+<li>License</li>
 
-# My Own Acceptance Criteria
+# Creating My Very Own Portfolio (Description)
 
-* My work is complete when I set up functioning links that navigate to a description of my work.
+    My portfolio project is based on my career in the past 3 years. You will see information about companies I previously worked at. My goal was to improve my web links to my Github and Gitlab to better help you find my profiles for each site. My CSS helps navigate my positioning of images and helps seperate 
 
-* It is complete when I set up my `index.html` is functioning correctly.
+# Visuals
+                                A preview of my project.
 
-* It is complete when my web link bar reads `My Amazing Portfolio`. 
+![Model](Images/Portfolio%20Photo%201.png)
+![Model](Images/Portfolio%20Photo%202.png)
 
-* It is complete when I add `images` to describe my portfolio.
+# My Installation
+ None
+# Usage
 
-* It is complete when I make my website completely understandable for all users to view.
+This is a sort of major project I will be going back and forth with to make it more unique. You can definetly look into my code anytime. Usually I use Command-Option-J, but that is if you have a macbook. Most computers that are not macbooks usually use Control-Shift-J when they are as well using google chrome.
 
-* It is complete when my `style.css` matches my full potential.
+# Road Map🗺
 
-* It is complete when the `elements` in orderly fashion.
+My ideas for the projects going forward will consist of Java Script, HTML & and DOM (Document Object Model).
 
-* It is complete when I push my portfolio in my `github` profile and create my web link.
-
-## 📔 Notes
-
-The following image demonstrates one of the web application's appearance and functionality:
+# Author✍🏽
+Created by Jeremiah Warren. I would like to thank my instructors for taking the time to help me along my journey to get better daily in this amazing bootcamp. 🙏🏽
 
