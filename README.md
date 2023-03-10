@@ -17,11 +17,12 @@
 # Visuals
                                 A preview of my project.
 
-![Model](Images/Portfolio%20Photo%201.png)
-![Model](Images/Portfolio%20Photo%202.png)
+![Image](./Images/Profile1.png)
+![Image](./Images/Profile2.png)
+![Image](./Images/Profile3.png)
 
 # My Installation
- None
+ Click the link and the browser will open up my website.
 # Usage
 
 This is a sort of major project I will be going back and forth with to make it more unique. You can definetly look into my code anytime. Usually I use Command-Option-J, but that is if you have a macbook. Most computers that are not macbooks usually use Control-Shift-J when they are as well using google chrome.
